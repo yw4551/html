@@ -1,0 +1,19 @@
+h1 {
+	color: #b48608; font-family: 'Droid serif', serif; font-size: 40px; font-weight: 600; font-style: italic; line-height: 44px; margin: 0 0 12px; text-align: center; text-transform: uppercase
+}
+
+h3 {
+	color: #b48608; font-family: 'Droid serif', serif; font-size: 25px; font-weight: 400; font-style: italic; line-height: 44px; margin: 0 0 12px; text-align: center;
+}
+
+body {
+	color: white; font-family: 'Droid serif', serif; font-size: 15px; font-weight: 400; line-height: 44px; margin: 0 0 12px; text-align: center; background-color: black;
+}
+
+img{
+	 border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 320px; height: 200px;
+}
+
+a {
+	background-color: #b48608; color: white; padding: 1em 1.5em; text-decoration: none; text-transform: uppercase; border: 1px solid #bbb; border-radius: 4px; 
+}
